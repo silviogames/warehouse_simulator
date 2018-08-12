@@ -1,0 +1,1 @@
+cloc-1.76.exe ludum_dare/ld42/core/src --out=ludum_dare/ld42/loc/4.txt
